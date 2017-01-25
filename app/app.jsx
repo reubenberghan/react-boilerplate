@@ -16,6 +16,6 @@ require('style!css!sass!applicationStyles');
 // the `IndexRoute` component lets `react` know which component is our default (index) route to render
 // we then nest further `Route` components to define the components we want rendered at which route
 ReactDOM.render(
-    <p>Boilerplate 4 Project</p>,
+    <p>React Boilerplate</p>,
     document.getElementById('app')
 );
