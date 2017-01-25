@@ -6,4 +6,4 @@ The build and test scripts have also already been configured in the `package.jso
 
 ## Todo List
 
-- [ ] Add a default `Main.jsx` file to the components directory in app as a starting point
+- [ ] Add a default `Main.jsx` file to the `components` directory in `app` as a starting point
